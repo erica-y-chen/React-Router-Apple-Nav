@@ -1,0 +1,22 @@
+.type{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center; 
+    color: white;
+}
+
+.mainNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 40px;
+
+    background-color: rgb(34, 34, 34);
+}
+
+.apple-logo {
+    height: 30px;
+    width: auto;
+
+}
